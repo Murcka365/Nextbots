@@ -1,20 +1,31 @@
-## Nextbots
+# Nextbots
 ## File sys
 addons # 3d-party code and content.
+
 content # fonts, themes, animations, sounds and e.t.c.
+
 globals # global scenes and code (singleton).
+
 scripts # source code.
+
 shaders # shader source code.
+
 scenes # scenes, packed scene, scene resources.
 
 
 ## File formats
 png # texture, sprite and alpha channel support
+
 jpeg # big texture no alpha support
+
 wav # audio files short 3.5 seconds.
+
 mp3 # all audio files 3.5 upper seconds, all voice line and simple sounds.
+
 .cfg # configuration files, archive user data.
+
 .json # archive all other data.
+
 ! prefer selected file format better .tres (.anim, .theme, е.t.c.) but prefer usage .tres format better .res binary format.
 
 
