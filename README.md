@@ -59,6 +59,7 @@ mp3 # all audio files 3.5 upper seconds, all voice line and simple sounds.
 • use UNDERSTATABLE NAMES for files..
 
 
+## TARGETS
 1) PLAYER CONTROLLER
 • Игрок
 
